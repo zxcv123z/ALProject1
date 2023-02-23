@@ -21,6 +21,7 @@
     }
   ],
   "showMyCode": true,
+  "contextSensitiveHelpUrl": "http://docs.microsoft.com",
   "runtime": "6.0",
   "features": [
     "NoImplicitWith"
